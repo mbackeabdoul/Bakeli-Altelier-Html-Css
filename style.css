@@ -1,3 +1,11 @@
+ul{
+    display: flex;
+    margin:5px;
+    justify-content: space-between;
+    list-style: none;
+    background-color: rgba(111, 182, 111, 0.64);
+} 
+
 .flex{
     display: flex;
     gap:20px;
